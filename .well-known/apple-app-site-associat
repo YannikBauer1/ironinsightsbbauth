@@ -1,0 +1,13 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "5SFC5585DC.com.ironinsights.app",
+        "paths": [
+          "*"
+        ]
+      }
+    ]
+  }
+}
